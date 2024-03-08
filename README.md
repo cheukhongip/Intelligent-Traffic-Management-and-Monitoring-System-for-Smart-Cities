@@ -7,5 +7,16 @@ Developed an IoT-based traffic flow prediction model, leveraging CCTV and drones
 In progressing
 
 ### Modeling
-Yolov8 custom classes
- -ddd
+Yolov8 nano with custom classes from drone video
+* Car Crash
+* Trank Rollover
+* Car on Fire
+* Police Car
+* Fire Truck
+* Ambulance
+
+Yolov8 with vehicles detection dataset: Visdrone
+
+### Model Flow
+
+### Integrated Drone Detection Model Demo: Highway Sence
