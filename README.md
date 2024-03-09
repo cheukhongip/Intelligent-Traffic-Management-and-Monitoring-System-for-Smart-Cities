@@ -19,6 +19,6 @@ Yolov8 nano with custom classes from drone video
 
 Yolov8 with vehicles detection dataset: Visdrone
 
-### Model Flow
-
 ### Integrated Drone Detection Model Demo: Highway Sence
+
+
