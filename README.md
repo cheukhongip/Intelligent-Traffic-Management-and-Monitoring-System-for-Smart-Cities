@@ -1,4 +1,4 @@
-# Smart City AI Traffic Monitoring System
+# Smart City AI Traffic Monitoring System with Machine Learning Models
 
 ### Project Description
 Developed an IoT-based traffic flow prediction model, leveraging CCTV and drones for real-time traffic analysis and forecasting on highways. Innovated a Drone-Captured Video Analysis System to identify accidents, monitor emergency vehicles, and analyze vehicle movement, significantly enhancing congestion management and emergency response efficiency.
