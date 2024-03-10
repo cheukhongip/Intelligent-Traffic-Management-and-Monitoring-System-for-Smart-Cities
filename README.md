@@ -8,7 +8,7 @@ Developed an IoT-based traffic flow prediction model, leveraging CCTV and drones
 ### Modeling
 Yolov8 nano with custom classes from drone video
 * Car Crash
-* Trank Rollover
+* Truck Rollover
 * Car on Fire
 * Police Car
 * Fire Truck
